@@ -1,0 +1,13 @@
+/* Write your code here. */
+.nature-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.nature-para {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.small-image-container {
+  display: flex;
+  flex-direction: row;
+}
